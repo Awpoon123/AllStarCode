@@ -48,4 +48,6 @@ loadBenchModel(scene);
 
 loadCeilingLampModel(scene);
 
+
+
 setupVR(renderer);
