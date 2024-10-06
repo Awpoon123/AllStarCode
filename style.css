@@ -380,6 +380,8 @@ canvas {
   transition: background-color 0.3s ease;
 }
 
+
+
 #audio_controls button:hover {
   background-color: rgba(52, 58, 125, 0.8);
 }
